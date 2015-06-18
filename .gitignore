@@ -4,3 +4,5 @@ migrations
 *.sublime-project
 *.sublime-workspace
 db.sqlite3
+static
+media
